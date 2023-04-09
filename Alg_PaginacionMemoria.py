@@ -1,6 +1,12 @@
 # Algorito de Reemplazo de Paginas
 # Desarrollado: Jorge Antonio Hernandez
 
+
+# Algoritmo de reemplazo de páginas que emula la ejecución de este proceso 
+# para decidir qué páginas pueden ser sacadas de memoria cuando se necesita 
+# cargar una nueva y ya no hay marcos libres.
+
+
 import os
 import matplotlib.pyplot as plt
 import numpy as np
