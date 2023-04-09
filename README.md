@@ -1,1 +1,4 @@
 # Algoritmo_Reemplazo_de_Pagina
+# El algoritmo de reemplazo de páginas es un proceso que se utiliza en sistemas operativos para administrar la memoria física y virtual en un dispositivo de almacenamiento. El objetivo principal de este algoritmo es determinar qué página de memoria virtual debe ser eliminada cuando la memoria física está llena y se necesita espacio para cargar una nueva página.
+
+# Existen varios algoritmos de reemplazo de páginas, como el algoritmo de reemplazo de página menos recientemente utilizado (LRU), el algoritmo de reemplazo de página más antiguo (FIFO) y el algoritmo de reemplazo de página óptimo (OPT). Cada algoritmo tiene sus propias ventajas y desventajas y se selecciona en función de los requisitos específicos del sistema.
