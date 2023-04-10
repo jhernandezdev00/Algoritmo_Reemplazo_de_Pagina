@@ -27,9 +27,20 @@ Otro método requiere soporte de hardware y consiste en tener un contador que se
 
 ___
 
-<h4>Este algoritmo permite al usuario ingresar un listado de procesos numéricos insertando el orden de como serán atendido o permite ejecutar un ejemplo pre cargado para demostrar como realiza la paginación de procesos cada método además de permitir ingresar cuantos marcos o espacio de memoria tiene para atender cada solicitud, como resultado muestra como se van realizando los cambios, el total de errores que se generaron, la eficiencia del cada algoritmo y gráfica como se van realizando los cambios.</h4>
+<h4>Este algoritmo permite al usuario ingresar un listado de procesos numéricos insertando el orden de como serán atendido o permite ejecutar un ejemplo pre cargado para demostrar como realiza la paginación de procesos cada método además de permitir ingresar cuantos marcos o espacio de memoria tiene para atender cada solicitud, como resultado muestra como se van realizando los cambios, el total de fallos que se generaron, la eficiencia del cada algoritmo y gráfica como se van realizando los cambios.</h4>
 <br>
 <h4>Ahora veremos una visualización de como funciona el algoritmo:</h4>
-<h4>Para este ejemplo, usaremos los valores cargados en el algoritmo para ejecutar, el algoritmo solicita los datos anteriormente descritos y comienza el proceso</h4>
+<h4>Para este ejemplo, usaremos los valores cargados en el algoritmo para ejecutar, el algoritmo solicita los datos anteriormente descritos y comienza el proceso mostrando los datos que aparecen al principio de la imagen e inicia el proceso, realiza la carga de procesos de acuerdo al algoritmo seleccionado.</h4>
 
 <img src="Source\Imagen_1.png">
+<img src="Source\Imagen_2.png">
+<img src="Source\Imagen_3.png">
+<img src="Source\Imagen_4.png">
+<br>
+<h4>Una vez terminado, muestra el número de fallos de página y muestra un resumen de los reemplazos realizados en cada carga</h4>
+<br>
+<img src="Source\Imagen_5.png">
+<br>
+<h4>Además, grafica una emulación de como se realizaron los cambios</h4>
+<br>
+<img src="Source\Imagen_6.png">
