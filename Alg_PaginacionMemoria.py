@@ -102,7 +102,7 @@ def Alg_FIFO():
                    MEMORIA_RAM[PROCESS] = pag
                    FIFO_order.append(PROCESS)
                    print("Fallo de Pagina No. :",CONTADOR_FALLOS)
-                   print("La pagina", PAG_REEMP, "fue remplazada por ", pag, "en el marco", PROCESS)
+                   print("La página", PAG_REEMP, "fue remplazada por ", pag, "en el marco", PROCESS)
                    print(">> Contenido de Memoria: ", MEMORIA_RAM)
                    print("-------------------------------------------------------------------")
                    print("\n")
